@@ -2,7 +2,7 @@
 Mining Questions Asked about Continuous SoftwareEngineering: A Case Study of Stack Overflow
 # Zahedi et al. (2019)
 
-|	topic number	|	topic_label	|	Top LDA words	|
+|	Topic number	|	Topic Label	|	Top LDA words	|
 | --- | --- | --- |
 |	1	|	Server and port configurations	|	server,servic,port,connect,ip,host,access,network,proxi,address	|
 |	2	|	Gitlab issues and configurations	|	gitlab,ci,pipelin,runner,cd,python,yml,project,file,job	|
