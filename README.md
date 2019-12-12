@@ -1,4 +1,4 @@
-Mining Questions Asked about Continuous SoftwareEngineering: A Case Study of Stack Overflow
+Mining Questions Asked about Continuous SoftwareEngineering: A Case Study of Stack Overflow:
 Zahedi et al. (2019)
 
 |	Topic number	|	Topic Label	|	Top LDA words	|
